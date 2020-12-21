@@ -1,8 +1,12 @@
 site_name: Hara-Lab Home Page
 nav:
+  - Home: index.md
+  - About: about.md
+  - Member: member.md
+  - English:
     - Home: index.md
-    - About: about.md
-    - Member: member.md
+    - About: about-e.md
+    - Member: member-e.md
 theme:
   name: 'material'
   language: 'ja'
