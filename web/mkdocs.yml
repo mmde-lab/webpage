@@ -1,0 +1,25 @@
+site_name: Hara-Lab Home Page
+nav:
+    - Home: index.md
+    - About: about.md
+    - Member: member.md
+theme:
+  name: 'material'
+  language: 'ja'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+extra:
+  search:
+    language: 'jp'
+markdown_extensions:
+  - admonition
+  - footnotes
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:  
+      custom_checkbox: true

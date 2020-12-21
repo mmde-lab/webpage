@@ -1,0 +1,9 @@
+version: '3'
+services:
+  ws:
+    build: ./docker/
+    volumes:
+      - ./:/root/mmde-lab-official-web
+    ports:
+      - "8000:8000"
+    tty: true
