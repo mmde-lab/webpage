@@ -5,10 +5,6 @@
 -------
 * Takahiro Hara (Professor)
 * Daichi Amagata (Assistant Professor)
-* Kamalas Udomlamlert (Ph.D 2nd)
-* Masahiro Yokoyama (Ph.D 2nd)
-* Naoya Taguchi (Bachelor 4th year)
-* Syunnya Nishio (Bachelor 4th year)
 
 
 ## Query Processing?

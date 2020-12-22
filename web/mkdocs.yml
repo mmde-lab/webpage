@@ -5,9 +5,10 @@ nav:
   - Member: member.md
   - Research: research/index.md
   - English:
-    - Home: index.md
+    - Home: index-e.md
     - About: about-e.md
     - Member: member-e.md
+    - Research: research/en/index.md
 theme:
   name: 'material'
   language: 'ja'

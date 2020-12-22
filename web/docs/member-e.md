@@ -16,11 +16,11 @@
 ### Technical Staff
 - Yoshiaki Takemoto
 ### Technical Assistant
-- Kana Ysuda
+- Kana Yasuda
 ### Clerical Assistant
 - Makiko Higashinaka
 ### Former Professor
-- [Shojiro Nishio](http://www-mmde.ist.osaka-u.ac.jp/~nishio/index.html)
+- [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
 ### Collaborative Reseracher
 - Tadashi Nakano
 ## STUDENTS
@@ -38,7 +38,6 @@
 - Kazuki Yonekura
 - Kim Heng
 - Li Zhi
-- Su Shih-Jie
 - Cai Zesheng
 - Jaime Morales
 - Zhou Heng
@@ -47,7 +46,7 @@
 - Takuma Kaiho
 - Yuka Tanno
 - Hayato Nakama
-- Kenta Kamimura
+- Kenta Murakami
 - Zhao Yue
 ### Bachelor 4th year
 - Ryosuke Taniguchi
@@ -55,7 +54,7 @@
 - Hikaru Nomura
 - Kohei Hirata
 - Jun Murao
-- Tomoya Morito
+- Tomoya Moritoh
 - Teoh Tze Chuin
 ### Bachelor 3rd year
 - Kei Tanigaki

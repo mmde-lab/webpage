@@ -20,7 +20,7 @@
 ### 事務補佐員
 - 東中　麻紀子
 ### 前任教授
-- [西尾　章治郎](http://www-mmde.ist.osaka-u.ac.jp/~nishio/index-jp.html)
+- [西尾　章治郎](https://mmde-lab.github.io/member-webpage/nishio/index-jp.html)
 ### 共同研究員
 - 中野　賢
 ## STUDENTS

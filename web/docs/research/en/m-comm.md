@@ -4,8 +4,6 @@
 -------
 * Takahiro Hara (Professor)
 * Tadashi Nakano (Associate Professor at Graduate School of Frontier Biosciences)
-* Takuya Obuchi (Master's 1st)
-* Jumpei Namba (Master's 1st)
 
 ## Molecular Communication
 -------
