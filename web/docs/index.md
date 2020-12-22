@@ -3,7 +3,7 @@
 ## Contents
 - [ご案内](./about.md) ([Information](./about-e.md))
 - [構成員](./member.md) ([Member](./member-e.md))
-- [研究内容](http://www-nishio.ist.osaka-u.ac.jp/research/)
+- [研究内容](./research/index.md)
 - [研究業績 (Publications)](http://app.www-mmde.ist.osaka-u.ac.jp/core/)
 - [公式ブログ (Facebook)](https://www.facebook.com/mmdelab)
 - 卒業論文・学位論文

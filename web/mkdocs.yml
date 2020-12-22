@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Member: member.md
+  - Research: research/index.md
   - English:
     - Home: index.md
     - About: about-e.md
