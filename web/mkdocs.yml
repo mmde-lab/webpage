@@ -15,7 +15,7 @@ theme:
     primary: 'indigo'
     accent: 'indigo'
   font:
-    text: 'Roboto'
+    text: 'Noto Sans JP'
     code: 'Roboto Mono'
 extra:
   search:
