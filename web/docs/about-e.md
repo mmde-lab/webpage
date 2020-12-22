@@ -1,14 +1,14 @@
 # About Us
 
 ## Location
-Hara Lab.
+Hara Lab,
 <br>
-Department of Multimedia Engineering
+Department of Multimedia Engineering,
 <br>
 Graduate School of Information Science and Technology,
 Osaka University
 
-## Inquiry / Address (Send by post here)
+## Access
 〒565-0871
 Building A -2F, Graduate School of Information Science and Technology, 
 <br>
