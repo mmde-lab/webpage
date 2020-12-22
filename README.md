@@ -1,4 +1,4 @@
-# mmde-lab-official-web
+# webpage
 Hara-Laboratory Official web site.
 https://mmde-lab.github.io/webpage/
 
@@ -22,13 +22,13 @@ $ cd webpage
 
 ### Local (Recomended)
 ```
-$ cd mmde-lab-official-web/
+$ cd webpage/
 $ pip install -r docker/requirements.txt
 ```
 
 ### Docker (Optional)
 ```
-$ cd mmde-lab-official-web/
+$ cd webpage/
 $ docker-compose build
 $ docker-compose up -d
 $ docker-compose exec ws
