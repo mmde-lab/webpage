@@ -13,16 +13,15 @@
 * [データ検索](data.md)
 * [実世界センシング](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/sensing/)
 * [生物移動情報学](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/navi/)
-* [CPS](cps.md)
-* [Webコンテンツ](contents.md)
 * [分子通信](m-comm.md)
 
 
 
 ## 過去の研究テーマ
 -------
-旧西尾研究室で行われていた研究テーマです。
 
+* CPS
+* Webコンテンツ
 * Peer-to-Peer(P2P)ネットワーク
 * 次世代カーナビゲーションシステム
 * ウェアラブルコンピューティング
