@@ -6,7 +6,6 @@
 - [Research](./research/en/index.md)
 - [Publications](http://app.www-mmde.ist.osaka-u.ac.jp/core/)
 - [Official blog (Facebook)](https://www.facebook.com/mmdelab)
-- [Local page](http://192.168.1.3:8080)
 
 
 ## Links

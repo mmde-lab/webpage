@@ -14,14 +14,3 @@
 * [実世界センシング](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/sensing/)
 * [生物移動情報学](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/navi/)
 * [分子通信](m-comm.md)
-
-
-
-## 過去の研究テーマ
--------
-
-* CPS
-* Webコンテンツ
-* Peer-to-Peer(P2P)ネットワーク
-* 次世代カーナビゲーションシステム
-* ウェアラブルコンピューティング
