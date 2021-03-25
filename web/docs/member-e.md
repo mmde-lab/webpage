@@ -7,7 +7,7 @@
 ### Assistant Professor
 - [Daichi Amagata](https://amgt-d1.github.io/)
 ### Guest Professor
-- [Masumi Shirakawa](http://www-mmde.ist.osaka-u.ac.jp/~shirakawa/)
+- [Masumi Shirakawa](http://iwnsew.com/)
 ### Specially Appointed Researcher
 - Shuhei Yamazaki
 ### Postdoctoral Researcher
@@ -28,7 +28,7 @@
 - Tian Yiming
 - Xia Qingxin
 ### Doctor 1st year
-- Naoya Yoshimura
+- [Naoya Yoshimura](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
 - Ji Yuchen
 ### Master 2nd year
