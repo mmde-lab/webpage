@@ -7,7 +7,7 @@
 ### 助教
 - [天方　大地](https://amgt-d1.github.io/)
 ### 招聘教員
-- [白川　真澄](http://www-mmde.ist.osaka-u.ac.jp/~shirakawa/)
+- [白川　真澄](http://iwnsew.com/)
 ### 特任研究員
 - 山崎　修平
 ### 博士研究員
@@ -28,7 +28,7 @@
 - 田　一鳴
 - 夏　清心
 ### 博士課程1年
-- 吉村　直也
+- [吉村　直也](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
 - Ji Yuchen
 ### 修士課程2年
