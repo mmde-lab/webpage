@@ -12,7 +12,7 @@
 - Shuhei Yamazaki
 ### Postdoctoral Researcher
 - Kumrai Teerawat
-- Zhang Yihong
+- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Technical Staff
 - Yoshiaki Takemoto
 ### Technical Assistant

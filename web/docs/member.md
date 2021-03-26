@@ -12,7 +12,7 @@
 - 山崎　修平
 ### 博士研究員
 - Kumrai Teerawat
-- Zhang Yihong
+- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### 技術専門職員
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
 ### 技術補佐員
