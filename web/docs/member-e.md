@@ -15,8 +15,6 @@
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Technical Staff
 - Yoshiaki Takemoto
-### Technical Assistant
-- Kana Yasuda
 ### Clerical Assistant
 - Makiko Higashinaka
 ### Former Professor
@@ -27,35 +25,26 @@
 ### Doctor 3rd year
 - Tian Yiming
 - Xia Qingxin
-### Doctor 1st year
+### Doctor 2nd year
 - [Naoya Yoshimura](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
+### Doctor 1st year
 - Ji Yuchen
-### Master 2nd year
-- Yuya Takahashi
-- Hiroki Tsujimoto
-- Shohei Tsuruoka
-- Kazuki Yonekura
-- Kim Heng
 - Li Zhi
-- Cai Zesheng
+### Master 2nd year
 - Jaime Morales
 - Zhou Heng
-### Master 1st year
 - Yusuke Arai
 - Takuma Kaiho
 - Yuka Tanno
 - Hayato Nakama
 - Kenta Murakami
+### Master 1st year
 - Zhao Yue
-### Bachelor 4th year
 - Ryosuke Taniguchi
 - Yuuki Nishino
 - Hikaru Nomura
 - Kohei Hirata
-- Jun Murao
-- Tomoya Moritoh
-- Teoh Tze Chuin
-### Bachelor 3rd year
+### Bachelor 4th year
 - Kei Tanigaki
 - Rikuto Tsubouchi
