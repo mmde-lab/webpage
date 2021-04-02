@@ -32,6 +32,7 @@
 - Ji Yuchen
 - Li Zhi
 ### Master 2nd year
+- Kazuki Yonekura
 - Jaime Morales
 - Zhou Heng
 - Yusuke Arai

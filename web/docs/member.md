@@ -32,6 +32,7 @@
 - 李　智
 - Ji YuChen
 ### 修士課程2年
+- 米倉　一輝
 - Jaime Morales
 - 周　恒
 - 新井　悠介
