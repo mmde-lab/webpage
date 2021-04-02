@@ -8,11 +8,12 @@
 - [Daichi Amagata](https://amgt-d1.github.io/)
 ### Guest Professor
 - [Masumi Shirakawa](http://iwnsew.com/)
+### Specially Appointed Associate Professor
+- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Specially Appointed Researcher
 - Shuhei Yamazaki
 ### Postdoctoral Researcher
 - Kumrai Teerawat
-- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Technical Staff
 - Yoshiaki Takemoto
 ### Clerical Assistant

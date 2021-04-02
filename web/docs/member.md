@@ -8,11 +8,12 @@
 - [天方　大地](https://amgt-d1.github.io/)
 ### 招聘教員
 - [白川　真澄](http://iwnsew.com/)
+### 特任講師
+- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### 特任研究員
 - 山崎　修平
 ### 博士研究員
 - Kumrai Teerawat
-- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### 技術専門職員
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
 ### 事務補佐員
