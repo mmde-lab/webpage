@@ -11,6 +11,6 @@
 原研究室（旧西尾研究室）では、以下のグループ構成で研究を進めています。
 
 * [データ検索](data.md)
-* [実世界センシング](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/sensing/)
-* [生物移動情報学](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/navi/)
+* [実世界センシング](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/projects.html)
+* [生物移動情報学](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/projects.html)
 * [分子通信](m-comm.md)
