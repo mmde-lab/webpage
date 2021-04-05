@@ -13,8 +13,6 @@
 * [データ検索](data.md)
 * [実世界センシング](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/projects.html)
 * [生物移動情報学](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/projects.html)
-* [CPS](cps.md)
-* [Webコンテンツ](contents.md)
 * [分子通信](m-comm.md)
 
 
