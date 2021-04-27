@@ -14,7 +14,7 @@
 * [実世界センシング](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/projects.html)
 * [生物移動情報学](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/projects.html)
 * [分子通信](m-comm.md)
-
+* [AIマーケティング](CREST.md)
 
 
 ## 過去の研究テーマ
