@@ -50,3 +50,9 @@
 ### Bachelor 4th year
 - Kei Tanigaki
 - Rikuto Tsubouchi
+- Sohei Yamada
+- Takuma Yamashita
+- Ryunosuke Kaichi
+- Yuichi Hashimoto
+### Bachelor 3rd year
+- Keisuke Tsukamoto
