@@ -48,11 +48,11 @@
 - Hikaru Nomura
 - Kohei Hirata
 ### Bachelor 4th year
+- Ryunosuke Kaichi
 - Kei Tanigaki
 - Rikuto Tsubouchi
+- Yuichi Hashimoto
 - Sohei Yamada
 - Takuma Yamashita
-- Ryunosuke Kaichi
-- Yuichi Hashimoto
 ### Bachelor 3rd year
 - Keisuke Tsukamoto
