@@ -22,27 +22,27 @@
 - [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
 ### Collaborative Reseracher
 - Tadashi Nakano
-## STUDENTS
-### Doctor 3rd year
-- Tian Yiming
+- Yasuda Kana
+### Specially Appointed Assistant Professor
 - Xia Qingxin
+## STUDENTS
 ### Doctor 2nd year
 - [Naoya Yoshimura](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
-### Doctor 1st year
 - Ji Yuchen
+### Doctor 1st year
 - Li Zhi
-### Master 2nd year
-- Kazuki Yonekura
 - Jaime Morales
 - Zhou Heng
+### Master 2nd year
+- Kazuki Yonekura
 - Yusuke Arai
 - Takuma Kaiho
 - Yuka Tanno
 - Hayato Nakama
 - Kenta Murakami
-### Master 1st year
 - Zhao Yue
+### Master 1st year
 - Ryosuke Taniguchi
 - Yuuki Nishino
 - Hikaru Nomura

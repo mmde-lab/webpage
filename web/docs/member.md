@@ -22,10 +22,9 @@
 - [西尾　章治郎](https://mmde-lab.github.io/member-webpage/nishio/index-jp.html)
 ### 共同研究員
 - 中野　賢
-## STUDENTS
-### 博士課程3年
-- 田　一鳴
+###特任助教
 - 夏　清心
+## STUDENTS
 ### 博士課程2年
 - [吉村　直也](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
