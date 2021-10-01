@@ -16,32 +16,33 @@
 - Kumrai Teerawat
 ### 技術専門職員
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
+- 安田　佳奈
 ### 事務補佐員
 - 東中　麻紀子
 ### 前任教授
 - [西尾　章治郎](https://mmde-lab.github.io/member-webpage/nishio/index-jp.html)
 ### 共同研究員
 - 中野　賢
-###特任助教
+### 特任助教
 - 夏　清心
 ## STUDENTS
 ### 博士課程2年
 - [吉村　直也](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
+- Ji YuChen
 ### 博士課程1年
 - 李　智
-- Ji YuChen
+- 周　恒
+- Jaime Morales
 ### 修士課程2年
 - 米倉　一輝
-- Jaime Morales
-- 周　恒
 - 新井　悠介
 - 海保　拓真
 - 丹野　友華
 - 仲摩　隼人
 - 村上　健太
-### 修士課程1年
 - Zhao Yue
+### 修士課程1年
 - 谷口　凌亮
 - 西野　祐希
 - 野村　ひかる
