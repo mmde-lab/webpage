@@ -34,6 +34,7 @@
 - Li Zhi
 - Jaime Morales
 - Zhou Heng
+- Jiao Shengzhe
 ### Master 2nd year
 - Kazuki Yonekura
 - Yusuke Arai
@@ -47,6 +48,7 @@
 - Yuuki Nishino
 - Hikaru Nomura
 - Kohei Hirata
+- Wang Yuqiao
 ### Bachelor 4th year
 - Ryunosuke Kaichi
 - Kei Tanigaki
