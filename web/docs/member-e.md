@@ -10,8 +10,8 @@
 - [Masumi Shirakawa](http://iwnsew.com/)
 ### Specially Appointed Associate Professor
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
-### Specially Appointed Researcher
-- Shuhei Yamazaki
+### Specially Appointed Assistant Professor
+- Xia Qingxin
 ### Postdoctoral Researcher
 - Kumrai Teerawat
 ### Technical Staff
@@ -23,8 +23,6 @@
 ### Collaborative Reseracher
 - Tadashi Nakano
 - Yasuda Kana
-### Specially Appointed Assistant Professor
-- Xia Qingxin
 ## STUDENTS
 ### Doctor 2nd year
 - [Naoya Yoshimura](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
@@ -32,9 +30,9 @@
 - Ji Yuchen
 ### Doctor 1st year
 - Li Zhi
-- Jaime Morales
 - Zhou Heng
 - Jiao Shengzhe
+- Jaime Morales
 ### Master 2nd year
 - Kazuki Yonekura
 - Yusuke Arai
@@ -57,5 +55,5 @@
 - Sohei Yamada
 - Takuma Yamashita
 ### Bachelor 3rd year
+- Ryo Shirai
 - Keisuke Tsukamoto
-- Ryo shirai

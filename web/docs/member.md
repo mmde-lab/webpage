@@ -10,8 +10,8 @@
 - [白川　真澄](http://iwnsew.com/)
 ### 特任講師
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
-### 特任研究員
-- 山崎　修平
+### 特任助教
+- 夏　清心
 ### 博士研究員
 - Kumrai Teerawat
 ### 技術専門職員
@@ -23,8 +23,6 @@
 - [西尾　章治郎](https://mmde-lab.github.io/member-webpage/nishio/index-jp.html)
 ### 共同研究員
 - 中野　賢
-### 特任助教
-- 夏　清心
 ## STUDENTS
 ### 博士課程2年
 - [吉村　直也](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
@@ -33,8 +31,8 @@
 ### 博士課程1年
 - 李　智
 - 周　恒
-- Jaime Morales
 - 焦 聖哲
+- Jaime Morales
 ### 修士課程2年
 - 米倉　一輝
 - 新井　悠介
@@ -57,5 +55,5 @@
 - 山田　蒼平
 - 山下　卓真
 ### 学部3年
-- 塚本　圭祐
 - 白井　僚
+- 塚本　圭祐
