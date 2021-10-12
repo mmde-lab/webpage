@@ -58,3 +58,4 @@
 - Takuma Yamashita
 ### Bachelor 3rd year
 - Keisuke Tsukamoto
+- Ryo shirai
