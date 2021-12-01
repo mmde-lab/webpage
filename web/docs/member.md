@@ -27,7 +27,7 @@
 ### 博士課程2年
 - [吉村　直也](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
-- Ji YuChen
+- Ji Yuchen
 ### 博士課程1年
 - 李　智
 - 周　恒
