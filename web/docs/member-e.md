@@ -12,6 +12,7 @@
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Specially Appointed Assistant Professor
 - Xia Qingxin
+- Otsuka Ryoma
 ### Postdoctoral Researcher
 - Kumrai Teerawat
 ### Technical Staff
