@@ -11,50 +11,39 @@
 ### Specially Appointed Associate Professor
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Specially Appointed Assistant Professor
-- Xia Qingxin
 - Ryoma Otsuka
-### Postdoctoral Researcher
+- Xia Qingxin
 - Kumrai Teerawat
 ### Technical Staff
 - Yoshiaki Takemoto
+- Yasuda Kana
 ### Clerical Assistant
 - Makiko Higashinaka
 ### Former Professor
 - [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
-### Collaborative Reseracher
-- Tadashi Nakano
-- Yasuda Kana
 ## STUDENTS
-### Doctor 2nd year
+### Doctor 3rd year
 - [Naoya Yoshimura](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
+### Doctor 2nd year
+- Li Zhi
 - Ji Yuchen
 ### Doctor 1st year
-- Li Zhi
 - Zhou Heng
 - Jiao Shengzhe
 - Jaime Morales
 ### Master 2nd year
-- Kazuki Yonekura
-- Yusuke Arai
-- Takuma Kaiho
-- Yuka Tanno
-- Hayato Nakama
-- Kenta Murakami
-- Zhao Yue
-### Master 1st year
 - Ryosuke Taniguchi
 - Yuuki Nishino
 - Hikaru Nomura
 - Kohei Hirata
-- Wang Yuqiao
-### Bachelor 4th year
-- Ryunosuke Kaichi
+- Zhao Yue
+### Master 1st year
+- Kentaro Shiga
 - Kei Tanigaki
 - Rikuto Tsubouchi
-- Yuichi Hashimoto
-- Sohei Yamada
 - Takuma Yamashita
-### Bachelor 3rd year
+- Wang Yuqiao
+### Bachelor 4th year
 - Ryo Shirai
 - Keisuke Tsukamoto
