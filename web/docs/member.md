@@ -15,7 +15,7 @@
 - 夏　清心
 - Kumrai Teerawat
 ### 技術専門職員
-- 川辺 央子
+- 川辺　央子
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
 - 安田　佳奈
 ### 事務補佐員
