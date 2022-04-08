@@ -15,6 +15,7 @@
 - Xia Qingxin
 - Kumrai Teerawat
 ### Technical Staff
+- Chikako Kawabe
 - Yoshiaki Takemoto
 - Yasuda Kana
 ### Clerical Assistant
@@ -45,5 +46,10 @@
 - Takuma Yamashita
 - Wang Yuqiao
 ### Bachelor 4th year
+- Kazuyoshi Aoyama
+- Ryuichiro Okuda
+- Yukihiro Kadono
 - Ryo Shirai
 - Keisuke Tsukamoto
+- Yuma Douse
+- Centurion Ramos Julio Alejandro

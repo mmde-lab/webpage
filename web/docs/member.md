@@ -15,6 +15,7 @@
 - 夏　清心
 - Kumrai Teerawat
 ### 技術専門職員
+- 川辺 央子
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
 - 安田　佳奈
 ### 事務補佐員
@@ -45,6 +46,11 @@
 - 山下　卓真
 - 王　宇翹
 ### 学部4年
+- 青山　和禎
+- 奥田　隆一郎
+- 門野　航央
 - 白井　僚
 - 塚本　圭祐
+- 道瀬　悠磨
+- Centurion Ramos Julio Alejandro
 
