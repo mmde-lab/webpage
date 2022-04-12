@@ -1,0 +1,220 @@
+127.0.0.1 localhost rio-local
+
+################################
+# Black lists                  #
+################################
+0.0.0.0 init.icloud-analysis.com init.icloud-diagnostics.com init.crash-analytics.com
+:: init.icloud-analysis.com init.icloud-diagnostics.com init.crash-analytics.com
+
+#################################
+# Danger Network 192.168.2.0/24 #
+#################################
+192.168.2.1	earth.dmz
+192.168.2.2	ocean.dmz ocean-web.dmz
+192.168.2.3     ocean-mail.dmz
+192.168.2.240	lake.dmz
+
+##################################
+# Private Network 192.168.1.0/24 #
+##################################
+##### Core Servers #####
+192.168.1.1	earth	earth.private
+192.168.1.2	rio	rio.private 
+192.168.1.3	magma	magma.private
+192.168.1.6	kirby	kirby.private
+192.168.1.11	selva	selva.private
+##### Workstations #####
+192.168.1.13	gitlab	gitlab.private
+
+##### Public Machines #####
+192.168.1.22	forest	forest.private
+
+##### Access Points #####
+192.168.1.62	as203	as203.private
+192.168.1.63	as209	as209.private
+
+##### Blade Servers ######
+
+##### Test Servers ######
+192.168.1.104 pubz.private
+
+##### Printers #####
+192.168.1.27	ptr_stu		ptr_stu.private
+192.168.1.28	ptr_secret	ptr_secret.private
+192.168.1.29	huge	huge.private
+192.168.1.30	scn_stu		scn_stu.private
+
+
+##### DHCP #####
+192.168.1.110	d10	d10.private
+192.168.1.111	d11	d11.private
+192.168.1.112	d12	d12.private
+192.168.1.113	d13	d13.private
+192.168.1.114	d14	d14.private
+192.168.1.115	d15	d15.private
+192.168.1.116	d16	d16.private
+192.168.1.117	d17	d17.private
+192.168.1.118	d18	d18.private
+192.168.1.119	d19	d19.private
+192.168.1.120	d20	d20.private
+192.168.1.121	d21	d21.private
+192.168.1.122	d22	d22.private
+192.168.1.123	d23	d23.private
+192.168.1.124	d24	d24.private
+192.168.1.125	d25	d25.private
+192.168.1.126	d26	d26.private
+192.168.1.127	d27	d27.private
+192.168.1.128	d28	d28.private
+192.168.1.129	d29	d29.private
+192.168.1.130	d30	d30.private
+192.168.1.131	d31	d31.private
+192.168.1.132	d32	d32.private
+192.168.1.133	d33	d33.private
+192.168.1.134	d34	d34.private
+192.168.1.135	d35	d35.private
+192.168.1.136	d36	d36.private
+192.168.1.137	d37	d37.private
+192.168.1.138	d38	d38.private
+192.168.1.139	d39	d39.private
+192.168.1.140	d40	d40.private
+192.168.1.141	d41	d41.private
+192.168.1.142	d42	d42.private
+192.168.1.143	d43	d43.private
+192.168.1.144	d44	d44.private
+192.168.1.145	d45	d45.private
+192.168.1.146	d46	d46.private
+192.168.1.147	d47	d47.private
+192.168.1.148	d48	d48.private
+192.168.1.149	d49	d49.private
+192.168.1.150	d50	d50.private
+192.168.1.151	d51	d51.private
+192.168.1.152	d52	d52.private
+192.168.1.153	d53	d53.private
+192.168.1.154	d54	d54.private
+192.168.1.155	d55	d55.private
+192.168.1.156	d56	d56.private
+192.168.1.157	d57	d57.private
+192.168.1.158	d58	d58.private
+192.168.1.159	d59	d59.private
+192.168.1.160	d60	d60.private
+192.168.1.161	d61	d61.private
+192.168.1.162	d62	d62.private
+192.168.1.163	d63	d63.private
+192.168.1.164	d64	d64.private
+192.168.1.165	d65	d65.private
+192.168.1.166	d66	d66.private
+192.168.1.167	d67	d67.private
+192.168.1.168	d68	d68.private
+192.168.1.169	d69	d69.private
+192.168.1.170	d70	d70.private
+192.168.1.171	d71	d71.private
+192.168.1.172	d72	d72.private
+192.168.1.173	d73	d73.private
+192.168.1.174	d74	d74.private
+192.168.1.175	d75	d75.private
+192.168.1.176	d76	d76.private
+192.168.1.177	d77	d77.private
+192.168.1.178	d78	d78.private
+192.168.1.179	d79	d79.private
+192.168.1.180	d80	d80.private
+192.168.1.181	d81	d81.private
+192.168.1.182	d82	d82.private
+192.168.1.183	d83	d83.private
+192.168.1.184	d84	d84.private
+192.168.1.185	d85	d85.private
+192.168.1.186	d86	d86.private
+192.168.1.187	d87	d87.private
+192.168.1.188	d88	d88.private
+192.168.1.189	d89	d89.private
+192.168.1.190	d90	d90.private
+192.168.1.191	d91	d91.private
+192.168.1.192	d92	d92.private
+192.168.1.193	d93	d93.private
+192.168.1.194	d94	d94.private
+192.168.1.195	d95	d95.private
+192.168.1.196	d96	d96.private
+192.168.1.197	d97	d97.private
+192.168.1.198	d98	d98.private
+192.168.1.199	d99	d99.private
+192.168.1.200	d100	d100.private
+192.168.1.201	d101	d101.private
+192.168.1.202	d102	d102.private
+192.168.1.203	d103	d103.private
+192.168.1.204	d104	d104.private
+192.168.1.205	d105	d105.private
+192.168.1.206	d106	d106.private
+192.168.1.207	d107	d107.private
+192.168.1.208	d108	d108.private
+192.168.1.209	d109	d109.private
+192.168.1.210	d110	d110.private
+192.168.1.211	d111	d111.private
+192.168.1.212	d112	d112.private
+192.168.1.213	d113	d113.private
+192.168.1.214	d114	d114.private
+192.168.1.215	d115	d115.private
+192.168.1.216	d116	d116.private
+192.168.1.217	d117	d117.private
+192.168.1.218	d118	d118.private
+192.168.1.219	d119	d119.private
+192.168.1.220	d120	d120.private
+192.168.1.221	d121	d121.private
+192.168.1.222	d122	d122.private
+192.168.1.223	d123	d123.private
+192.168.1.224	d124	d124.private
+192.168.1.225	d125	d125.private
+192.168.1.226	d126	d126.private
+192.168.1.227	d127	d127.private
+192.168.1.228	d128	d128.private
+192.168.1.229	d129	d129.private
+192.168.1.230	d130	d130.private
+192.168.1.231	d131	d131.private
+192.168.1.232	d132	d132.private
+192.168.1.233	d133	d133.private
+192.168.1.234	d134	d134.private
+192.168.1.235	d135	d135.private
+192.168.1.236	d136	d136.private
+192.168.1.237	d137	d137.private
+192.168.1.238	d138	d138.private
+192.168.1.239	d139	d139.private
+192.168.1.240	d140	d140.private
+192.168.1.241	d141	d141.private
+192.168.1.242	d142	d142.private
+192.168.1.243	d143	d143.private
+192.168.1.244	d144	d144.private
+192.168.1.245	d145	d145.private
+192.168.1.246	d146	d146.private
+192.168.1.247	d147	d147.private
+192.168.1.248	d148	d148.private
+192.168.1.249	d149	d149.private
+192.168.1.250	d150	d150.private
+192.168.1.251	d151	d151.private
+192.168.1.252	d152	d152.private
+192.168.1.253	d153	d153.private
+192.168.1.254	d154	d154.private
+
+
+##################################
+# Private Network 192.168.1.0/24 #
+##################################
+#### Strage Servers
+192.168.3.10	dragon.netwg
+192.168.3.11	dragon-idrac.netwg
+#### Blade Servers
+192.168.3.33	hummer.netwg
+192.168.3.34	parasol.netwg
+192.168.3.35	plasma.netwg
+192.168.3.36	sword.netwg
+192.168.3.37	ice.netwg
+192.168.3.38	ufo.netwg
+192.168.3.39	stone.netwg
+192.168.3.40	cutter.netwg
+192.168.3.41	hypernova.netwg
+
+
+##############################################
+# Maekawanet (.mae)                          #
+# > 192.168.7.128/25 Sever Room   from earth #
+# > 192.168.7.1/25   Student Room from moon  #
+##############################################
+192.168.7.10    orion.mae
+192.168.7.140	dlbox.mae
