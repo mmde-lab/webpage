@@ -93,7 +93,7 @@ local=/private/
 # configure it as shown above, and then use the following line to
 # disable DHCP on it.
 #no-dhcp-interface=
-no-dhcp-interface=
+#no-dhcp-interface=eth0
 
 # On systems which support it, dnsmasq binds the wildcard address,
 # even when it is listening on only some interfaces. It then discards
@@ -268,9 +268,9 @@ dhcp-range=192.168.7.110,192.168.7.120,255.255.255.128,24h
 #dhcp-option=option:ntp-server,192.168.0.4,10.10.0.5
 
 #----------------------------------------------------------------------
-dhcp-option=option:dns-server,192.168.7.104
+dhcp-option=option:dns-server,192.168.7.104, 8.8.8.8
 dhcp-option=option:netmask,255.255.255.128
-dhcp-option=option:router,192.168.7.1
+dhcp-option=option:router,192.168.7.104
 #---------------------------------------------------------------------
 
 # Set the NTP time server address to be the same machine as
@@ -422,7 +422,7 @@ dhcp-option=option:router,192.168.7.1
 #dhcp-boot=/var/ftpd/pxelinux.0,boothost,192.168.0.3
 
 # Set the limit on DHCP leases, the default is 150
-dhcp-lease-max=500
+#dhcp-lease-max=500
 
 # The DHCP server needs somewhere on disk to keep its lease database.
 # This defaults to a sane location, but if you want to change it, use
