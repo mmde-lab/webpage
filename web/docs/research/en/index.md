@@ -10,4 +10,3 @@ We believe that our wide-ranging research topics open up great possibilities for
 ## Research groups
   * [Query processing](data.md)
   * [Sensor](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/sensing/#googtrans%28ja|en%29)
-  * [Molecular communication](m-comm.md)
