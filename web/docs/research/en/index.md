@@ -5,7 +5,6 @@ Hara laboratory (former Nishio laboratory) aims for the development of the advan
 
 We believe that our wide-ranging research topics open up great possibilities for creating new businesses.
 
-![](./img/hara-lab-en.jpg)
 
 
 ## Research groups
