@@ -29,6 +29,7 @@
 ### Doctor 2nd year
 - Li Zhi
 - Ji Yuchen
+- Cao Guanyu
 ### Doctor 1st year
 - Zhou Heng
 - Jiao Shengzhe

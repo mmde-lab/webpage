@@ -28,6 +28,7 @@
 - Dissanayake Thilina Madushan
 ### 博士課程2年
 - 李　智
+- 曹　冠宇
 - Ji Yuchen
 ### 博士課程1年
 - 周　恒
