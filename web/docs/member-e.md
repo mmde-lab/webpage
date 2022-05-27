@@ -28,8 +28,8 @@
 - Dissanayake Thilina Madushan
 ### Doctor 2nd year
 - Li Zhi
-- Ji Yuchen
 - Cao Guanyu
+- Ji Yuchen
 ### Doctor 1st year
 - Zhou Heng
 - Jiao Shengzhe
