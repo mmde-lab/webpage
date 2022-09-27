@@ -15,37 +15,35 @@
 - 夏　清心
 - Kumrai Teerawat
 ### 技術専門職員
-- 川辺　央子
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
 - 安田　佳奈
 ### 事務補佐員
-- 東中　麻紀子
+- 石川　貴子
 ### 前任教授
 - [西尾　章治郎](https://mmde-lab.github.io/member-webpage/nishio/index-jp.html)
 ## STUDENTS
 ### 博士課程3年
 - [吉村　直也](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
+- Ji Yuchen
 ### 博士課程2年
 - 李　智
 - 曹　冠宇
-- Ji Yuchen
-### 博士課程1年
-- 周　恒
 - 焦　聖哲
+- 周　恒
 - Jaime Morales
+### 博士課程1年
 ### 修士課程2年
 - 谷口　凌亮
 - 西野　祐希
 - 野村　ひかる
 - 平田　皓平
-- Zhao Yue
+- 王　宇翹
 ### 修士課程1年
 - 志賀　憲太郎
 - 谷垣　慶
 - 壺内　陸友
 - 山下　卓真
-- 王　宇翹
 ### 学部4年
 - 青山　和禎
 - 奥田　隆一郎

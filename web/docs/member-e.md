@@ -15,37 +15,35 @@
 - Xia Qingxin
 - Kumrai Teerawat
 ### Technical Staff
-- Chikako Kawabe
 - Yoshiaki Takemoto
 - Yasuda Kana
 ### Clerical Assistant
-- Makiko Higashinaka
+- Takako Ishikawa
 ### Former Professor
 - [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
 ## STUDENTS
 ### Doctor 3rd year
 - [Naoya Yoshimura](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
 - Dissanayake Thilina Madushan
+- Ji Yuchen
 ### Doctor 2nd year
 - Li Zhi
 - Cao Guanyu
-- Ji Yuchen
-### Doctor 1st year
-- Zhou Heng
 - Jiao Shengzhe
+- Zhou Heng
 - Jaime Morales
+### Doctor 1st year
 ### Master 2nd year
 - Ryosuke Taniguchi
 - Yuuki Nishino
 - Hikaru Nomura
 - Kohei Hirata
-- Zhao Yue
+- Wang Yuqiao
 ### Master 1st year
 - Kentaro Shiga
 - Kei Tanigaki
 - Rikuto Tsubouchi
 - Takuma Yamashita
-- Wang Yuqiao
 ### Bachelor 4th year
 - Kazuyoshi Aoyama
 - Ryuichiro Okuda
