@@ -52,3 +52,5 @@
 - Keisuke Tsukamoto
 - Yuma Douse
 - Centurion Ramos Julio Alejandro
+### Bachelor 3th year
+- Hinata Kirihara

@@ -52,4 +52,6 @@
 - 塚本　圭祐
 - 道瀬　悠磨
 - Centurion Ramos Julio Alejandro
+### 学部3年
+- 桐原　日向
 
