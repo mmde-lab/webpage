@@ -23,8 +23,6 @@
 - [西尾　章治郎](https://mmde-lab.github.io/member-webpage/nishio/index-jp.html)
 ## STUDENTS
 ### 博士課程3年
-- [吉村　直也](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
-- Dissanayake Thilina Madushan
 - Ji Yuchen
 ### 博士課程2年
 - 李　智
@@ -34,10 +32,6 @@
 - Jaime Morales
 ### 博士課程1年
 ### 修士課程2年
-- 谷口　凌亮
-- 西野　祐希
-- 野村　ひかる
-- 平田　皓平
 - 王　宇翹
 ### 修士課程1年
 - 志賀　憲太郎
@@ -49,9 +43,7 @@
 - 奥田　隆一郎
 - 門野　航央
 - 白井　僚
-- 塚本　圭祐
 - 道瀬　悠磨
-- Centurion Ramos Julio Alejandro
 ### 学部3年
 - 桐原　日向
 

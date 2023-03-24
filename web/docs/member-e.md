@@ -23,8 +23,6 @@
 - [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
 ## STUDENTS
 ### Doctor 3rd year
-- [Naoya Yoshimura](https://www.linkedin.com/in/naoya-yoshimura-3b783a177/)
-- Dissanayake Thilina Madushan
 - Ji Yuchen
 ### Doctor 2nd year
 - Li Zhi
@@ -34,10 +32,6 @@
 - Jaime Morales
 ### Doctor 1st year
 ### Master 2nd year
-- Ryosuke Taniguchi
-- Yuuki Nishino
-- Hikaru Nomura
-- Kohei Hirata
 - Wang Yuqiao
 ### Master 1st year
 - Kentaro Shiga
@@ -49,8 +43,6 @@
 - Ryuichiro Okuda
 - Yukihiro Kadono
 - Ryo Shirai
-- Keisuke Tsukamoto
 - Yuma Douse
-- Centurion Ramos Julio Alejandro
 ### Bachelor 3th year
 - Hinata Kirihara
