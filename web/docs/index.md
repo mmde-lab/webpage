@@ -5,7 +5,6 @@
 - [構成員](./member.md)
 - [研究内容](./research/index.md)
 - [研究業績](http://app.www-mmde.ist.osaka-u.ac.jp/core/)
-- [公式ブログ (Facebook)](https://www.facebook.com/mmdelab)
 - [ローカル情報](https://github.com/mmde-lab/wiki-private)
 <!-- - [ローカル情報](http://192.168.1.3:8080) -->
 

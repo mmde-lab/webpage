@@ -5,7 +5,6 @@
 - [Member](./member-e.md)
 - [Research](./research/en/index.md)
 - [Publications](http://app.www-mmde.ist.osaka-u.ac.jp/core/)
-- [Official blog (Facebook)](https://www.facebook.com/mmdelab)
 
 
 ## Links
