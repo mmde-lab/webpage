@@ -17,6 +17,7 @@
 ### Technical Staff
 - Yoshiaki Takemoto
 - Yasuda Kana
+- Makiko Otsuka
 ### Clerical Assistant
 - Takako Ishikawa
 ### Former Professor

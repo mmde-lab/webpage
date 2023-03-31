@@ -17,6 +17,7 @@
 ### 技術専門職員
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
 - 安田　佳奈
+- 大塚　牧子
 ### 事務補佐員
 - 石川　貴子
 ### 前任教授
