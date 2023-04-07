@@ -49,3 +49,9 @@
 - Yuma Douse
 - Aoran Chen
 ### Bachelor 4th year
+- Reon Uemura
+- Yoshiyuki Maekawa
+- Keita Matsunaka
+- Junya Yamada
+- Takuya Uemura
+- Tsuneari Kuroiwa
