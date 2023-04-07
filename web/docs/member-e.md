@@ -14,36 +14,38 @@
 - Ryoma Otsuka
 - Xia Qingxin
 - Kumrai Teerawat
+### Researcher
+- Momoe Sukegawa
 ### Technical Staff
 - Yoshiaki Takemoto
-- Yasuda Kana
+- Kana Yasuda
 - Makiko Otsuka
 ### Clerical Assistant
-- Takako Ishikawa
+- Makiko Higashinaka
 ### Former Professor
 - [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
 ## STUDENTS
 ### Doctor 3rd year
+- Cao Guanyu
+- Li Zhi
 - Ji Yuchen
 ### Doctor 2nd year
-- Li Zhi
-- Cao Guanyu
 - Jiao Shengzhe
 - Zhou Heng
 - Jaime Morales
 ### Doctor 1st year
+- Shuhei Yamazaki
 ### Master 2nd year
-- Wang Yuqiao
-### Master 1st year
 - Kentaro Shiga
 - Kei Tanigaki
 - Rikuto Tsubouchi
 - Takuma Yamashita
-### Bachelor 4th year
+- Wang Yuqiao
+### Master 1st year
 - Kazuyoshi Aoyama
 - Ryuichiro Okuda
 - Yukihiro Kadono
 - Ryo Shirai
 - Yuma Douse
-### Bachelor 3th year
-- Hinata Kirihara
+- Aoran Chen
+### Bachelor 4th year
