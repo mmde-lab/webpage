@@ -1,9 +1,9 @@
 # MEMBER
 ## STAFF
 ### Professor
-- [Takahiro Hara](http://www-mmde.ist.osaka-u.ac.jp/~hara/index.html)
+- [Takahiro Hara](http://web.www-mmde.ist.osaka-u.ac.jp/~hara)
 ### Associate Professor
-- [Takuya Maekawa](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/index-e.html)
+- [Takuya Maekawa](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### Assistant Professor
 - [Daichi Amagata](https://amgt-d1.github.io/)
 ### Guest Professor
