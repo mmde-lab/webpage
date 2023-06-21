@@ -1,9 +1,9 @@
 # 原研究室の構成員
 ## STAFF
 ### 教授
-- [原　隆浩](http://www-mmde.ist.osaka-u.ac.jp/~hara/index-jp.html)
+- [原　隆浩](http://web.www-mmde.ist.osaka-u.ac.jp/~hara)
 ### 准教授
-- [前川　卓也](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/)
+- [前川　卓也](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### 助教
 - [天方　大地](https://amgt-d1.github.io/)
 ### 招聘教員
