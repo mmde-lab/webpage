@@ -12,7 +12,6 @@
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Specially Appointed Assistant Professor
 - Ryoma Otsuka
-- Xia Qingxin
 - Kumrai Teerawat
 ### Researcher
 - Momoe Sukegawa
@@ -29,12 +28,13 @@
 - Cao Guanyu
 - Li Zhi
 - Ji Yuchen
-### Doctor 2nd year
 - Jiao Shengzhe
-- Zhou Heng
 - Jaime Morales
+- Zhou Heng
+
 ### Doctor 1st year
 - Shuhei Yamazaki
+- Wang Yang
 ### Master 2nd year
 - Kentaro Shiga
 - Kei Tanigaki
@@ -48,6 +48,7 @@
 - Ryo Shirai
 - Yuma Douse
 - Aoran Chen
+- Zhang Yiqing
 ### Bachelor 4th year
 - Reon Uemura
 - Yoshiyuki Maekawa
