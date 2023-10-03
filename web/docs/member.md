@@ -12,7 +12,6 @@
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### 特任助教
 - 大塚　亮真
-- 夏　清心
 - Kumrai Teerawat
 ### 研究員
 - 助川　桃枝
@@ -29,12 +28,12 @@
 - 曹　冠宇
 - 李　智
 - Ji Yuchen
-### 博士課程2年
+- Jaime Morales
 - 焦　聖哲
 - 周　恒
-- Jaime Morales
 ### 博士課程1年
 - 山崎　修平
+- Wang Yang
 ### 修士課程2年
 - 志賀　憲太郎
 - 谷垣　慶
@@ -48,6 +47,7 @@
 - 白井　僚
 - 道瀬　悠磨
 - Aoran Chen
+- 張 奕慶
 ### 学部4年
 - 植村　玲央
 - 前川　由幸
