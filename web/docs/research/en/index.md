@@ -8,5 +8,5 @@ We believe that our wide-ranging research topics open up great possibilities for
 
 
 ## Research groups
-  * [Query processing](data.md)
+  * [Query processing](https://amagata-daichi.notion.site/Welcome-to-Daichi-Amagata-s-Homepage-9d42f7292ccf40279f00eced2e941590)
   * [Sensor](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/sensing/#googtrans%28ja|en%29)
