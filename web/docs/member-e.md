@@ -4,12 +4,12 @@
 - [Takahiro Hara](http://web.www-mmde.ist.osaka-u.ac.jp/~hara)
 ### Associate Professor
 - [Takuya Maekawa](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
+- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Assistant Professor
 - [Daichi Amagata](https://amgt-d1.github.io/)
 ### Guest Professor
 - [Masumi Shirakawa](http://iwnsew.com/)
-### Specially Appointed Associate Professor
-- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
+- Xia Qingxin
 ### Specially Appointed Assistant Professor
 - Ryoma Otsuka
 - Kumrai Teerawat
@@ -26,22 +26,17 @@
 ## STUDENTS
 ### Doctor 3rd year
 - Cao Guanyu
-- Li Zhi
 - Ji Yuchen
 - Jiao Shengzhe
 - Jaime Morales
 - Zhou Heng
-
-### Doctor 1st year
+### Doctor 2st year
 - Shuhei Yamazaki
+### Doctor 1st year
 - Wang Yang
-### Master 2nd year
-- Kentaro Shiga
-- Kei Tanigaki
-- Rikuto Tsubouchi
-- Takuma Yamashita
 - Wang Yuqiao
-### Master 1st year
+- Kei Tanigaki
+### Master 2nd year
 - Kazuyoshi Aoyama
 - Ryuichiro Okuda
 - Yukihiro Kadono
@@ -49,10 +44,12 @@
 - Yuma Douse
 - Aoran Chen
 - Zhang Yiqing
-### Bachelor 4th year
+### Master 1st year
+- Shinnosuke Oka
 - Reon Uemura
+- Keito Kido
+- Tsuneari Kuroiwa
 - Yoshiyuki Maekawa
 - Keita Matsunaka
-- Junya Yamada
-- Takuya Uemura
-- Tsuneari Kuroiwa
+- Qiao hongyin
+### Bachelor 4th year

@@ -9,7 +9,7 @@
 -------
 原研究室（旧西尾研究室）では、以下のグループ構成で研究を進めています。
 
-* [データ検索](data.md)
+* [データ検索](https://amagata-daichi.notion.site/Welcome-to-Daichi-Amagata-s-Homepage-9d42f7292ccf40279f00eced2e941590)
 * [実世界センシング](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/projects.html)
 * [生物移動情報学](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/projects.html)
 * [AIマーケティング](CREST.md)
