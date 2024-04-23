@@ -53,3 +53,9 @@
 - Keita Matsunaka
 - Qiao hongyin
 ### Bachelor 4th year
+- Kazuki Azuma
+- Ryusei Iwasa
+- Hyo Suzuki
+- Yoshiyuki Sone
+- Jo Masuda
+- Lee Jongmin
