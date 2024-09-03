@@ -2,8 +2,8 @@
 ## STAFF
 ### Professor
 - [Takahiro Hara](http://web.www-mmde.ist.osaka-u.ac.jp/~hara)
-### Associate Professor
 - [Takuya Maekawa](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
+### Associate Professor
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Assistant Professor
 - [Daichi Amagata](https://amgt-d1.github.io/)

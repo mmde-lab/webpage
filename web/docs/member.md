@@ -2,8 +2,8 @@
 ## STAFF
 ### 教授
 - [原　隆浩](http://web.www-mmde.ist.osaka-u.ac.jp/~hara)
-### 准教授
 - [前川　卓也](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
+### 准教授
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### 助教
 - [天方　大地](https://amgt-d1.github.io/)
