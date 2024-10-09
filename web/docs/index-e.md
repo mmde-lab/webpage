@@ -8,7 +8,7 @@
 
 
 ## Links
-- [Department of Multimedia Engineering (Osaka Univ.)](http://www.ist.osaka-u.ac.jp/english/research/majors/mm/)
-- [Graduate school of Information Science and Technology (Osaka Univ.)](http://www.ist.osaka-u.ac.jp/english/index.html)
+- [Department of Multimedia Engineering (Osaka Univ.)](https://www.ist.osaka-u.ac.jp/english/majors/mm.php)
+- [Graduate school of Information Science and Technology (Osaka Univ.)](https://www.ist.osaka-u.ac.jp/english/)
 - [School/Graduate school of Engineering (Osaka Univ.)](http://www.eng.osaka-u.ac.jp/en/index.html)
 - [Osaka University](http://www.osaka-u.ac.jp/en)
