@@ -32,9 +32,9 @@
 - Zhou Heng
 ### Doctor 2st year
 - Shuhei Yamazaki
-### Doctor 1st year
 - Wang Yang
 - Wang Yuqiao
+### Doctor 1st year
 - Kei Tanigaki
 ### Master 2nd year
 - Kazuyoshi Aoyama

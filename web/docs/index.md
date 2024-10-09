@@ -9,8 +9,8 @@
 <!-- - [ローカル情報](http://192.168.1.3:8080) -->
 
 ## リンク
-- [マルチメディア工学専攻](http://www.ist.osaka-u.ac.jp/japanese/research/majors/mm/)
-- [情報科学研究科](http://www.ist.osaka-u.ac.jp/japanese/index.html)
+- [マルチメディア工学専攻](https://www.ist.osaka-u.ac.jp/japanese/majors/mm.php)
+- [情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/)
 - [工学研究科／工学部](http://www.eng.osaka-u.ac.jp/ja/index.html)
 - [大阪大学](http://www.osaka-u.ac.jp/)
 
