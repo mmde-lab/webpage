@@ -59,3 +59,5 @@
 - Yoshiyuki Sone
 - Jo Masuda
 - Lee Jongmin
+### Bachelor 3rd year
+- Naoki Tadatsu
