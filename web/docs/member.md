@@ -4,8 +4,8 @@
 - [原　隆浩](http://web.www-mmde.ist.osaka-u.ac.jp/~hara)
 - [前川　卓也](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### 准教授
-- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 - [天方　大地](https://amgt-d1.github.io/)
+- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### 招聘教員
 - [白川　真澄](http://iwnsew.com/)
 - 夏　清心
