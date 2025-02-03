@@ -4,8 +4,8 @@
 - [Takahiro Hara](http://web.www-mmde.ist.osaka-u.ac.jp/~hara)
 - [Takuya Maekawa](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### Associate Professor
-- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 - [Daichi Amagata](https://amgt-d1.github.io/)
+- [Zhang Yihong](https://www.ringspool.com/yihongzhang)
 ### Guest Professor
 - [Masumi Shirakawa](http://iwnsew.com/)
 - Xia Qingxin
