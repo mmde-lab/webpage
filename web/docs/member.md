@@ -5,7 +5,6 @@
 - [前川　卓也](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### 准教授
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
-### 助教
 - [天方　大地](https://amgt-d1.github.io/)
 ### 招聘教員
 - [白川　真澄](http://iwnsew.com/)
@@ -27,7 +26,6 @@
 ### 博士課程3年
 - 曹　冠宇
 - Ji Yuchen
-- Jaime Morales
 - 焦　聖哲
 - 周　恒
 ### 博士課程2年
