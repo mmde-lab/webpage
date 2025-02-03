@@ -5,7 +5,6 @@
 - [Takuya Maekawa](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### Associate Professor
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
-### Assistant Professor
 - [Daichi Amagata](https://amgt-d1.github.io/)
 ### Guest Professor
 - [Masumi Shirakawa](http://iwnsew.com/)
@@ -28,7 +27,6 @@
 - Cao Guanyu
 - Ji Yuchen
 - Jiao Shengzhe
-- Jaime Morales
 - Zhou Heng
 ### Doctor 2st year
 - Shuhei Yamazaki
