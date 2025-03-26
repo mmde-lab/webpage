@@ -4,7 +4,7 @@
 - [Information](./about-e.md)
 - [Member](./member-e.md)
 - [Research](./research/en/index.md)
-- [Publications](http://app.www-mmde.ist.osaka-u.ac.jp/core/)
+- [Publications](https://amagata-daichi.notion.site/Publication-List-of-Multimedia-Data-Engineering-Lab-19fb718c179d80eca4dede443e3d12cf?pvs=4)
 
 
 ## Links

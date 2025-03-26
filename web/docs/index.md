@@ -4,7 +4,7 @@
 - [ご案内](./about.md)
 - [構成員](./member.md)
 - [研究内容](./research/index.md)
-- [研究業績](http://app.www-mmde.ist.osaka-u.ac.jp/core/)
+- [研究業績](https://amagata-daichi.notion.site/Publication-List-of-Multimedia-Data-Engineering-Lab-19fb718c179d80eca4dede443e3d12cf?pvs=4)
 - [ローカル情報](https://github.com/mmde-lab/wiki-private)
 <!-- - [ローカル情報](http://192.168.1.3:8080) -->
 
