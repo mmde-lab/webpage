@@ -6,7 +6,7 @@ Hara Lab,
 Department of Multimedia Engineering,
 <br>
 Graduate School of Information Science and Technology,
-Osaka University
+The University of Osaka
 
 ## Access
 〒565-0871
