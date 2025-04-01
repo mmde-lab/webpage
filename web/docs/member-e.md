@@ -17,7 +17,6 @@
 ### Technical Staff
 - Yoshiaki Takemoto
 - Kana Yasuda
-- Makiko Otsuka
 ### Clerical Assistant
 - Makiko Higashinaka
 ### Former Professor
@@ -25,24 +24,17 @@
 ## STUDENTS
 ### Doctor 3rd year
 - Cao Guanyu
-- Ji Yuchen
 - Jiao Shengzhe
-- Zhou Heng
-### Doctor 2st year
 - Shuhei Yamazaki
+### Doctor 2st year
 - Wang Yang
 - Wang Yuqiao
-### Doctor 1st year
 - Kei Tanigaki
-### Master 2nd year
-- Kazuyoshi Aoyama
-- Ryuichiro Okuda
-- Yukihiro Kadono
-- Ryo Shirai
-- Yuma Douse
+### Doctor 1st year
 - Aoran Chen
-- Zhang Yiqing
-### Master 1st year
+- Kento Kotera
+- Yuma Dose
+### Master 2st year
 - Shinnosuke Oka
 - Reon Uemura
 - Keito Kido
@@ -50,12 +42,13 @@
 - Yoshiyuki Maekawa
 - Keita Matsunaka
 - Qiao hongyin
-### Bachelor 4th year
-- Kazuki Azuma
+### Master 1st year
 - Ryusei Iwasa
+- Naoya Ehara
+- Genryu Kuraya
 - Hyo Suzuki
 - Yoshiyuki Sone
 - Jo Masuda
-- Lee Jongmin
-### Bachelor 3rd year
+### Bachelor 4rd year
+- Kazuki Azuma
 - Naoki Tadatsu
