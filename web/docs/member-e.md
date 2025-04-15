@@ -51,4 +51,11 @@
 - Jo Masuda
 ### Bachelor 4rd year
 - Kazuki Azuma
+- Katsumori Izumi
+- Sangwook Kim
+- Duhyun Kim
+- Yusuke Kimura
 - Naoki Tadatsu
+- Shintaro Tanaka
+### Bachelor 3rd year
+- Hiroki Sako
