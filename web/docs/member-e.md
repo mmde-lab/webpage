@@ -14,6 +14,7 @@
 - Kumrai Teerawat
 ### Researcher
 - Momoe Sukegawa
+- Cao Guanyu
 ### Technical Staff
 - Yoshiaki Takemoto
 - Kana Yasuda
@@ -23,17 +24,17 @@
 - [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
 ## STUDENTS
 ### Doctor 3rd year
-- Cao Guanyu
 - Jiao Shengzhe
 - Shuhei Yamazaki
-### Doctor 2st year
 - Wang Yang
 - Wang Yuqiao
+### Doctor 2st year
 - Kei Tanigaki
 ### Doctor 1st year
 - Aoran Chen
 - Kento Kotera
 - Yuma Dose
+- Yating Gao
 ### Master 2st year
 - Shinnosuke Oka
 - Reon Uemura
