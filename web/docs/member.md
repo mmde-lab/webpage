@@ -14,6 +14,7 @@
 - Kumrai Teerawat
 ### 研究員
 - 助川　桃枝
+- 曹　冠宇
 ### 技術専門職員
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
 - 安田　佳奈
@@ -23,17 +24,17 @@
 - [西尾　章治郎](https://mmde-lab.github.io/member-webpage/nishio/index-jp.html)
 ## STUDENTS
 ### 博士課程3年
-- 曹　冠宇
 - 焦　聖哲
 - 山崎　修平
-### 博士課程2年
-- Wang Yang
 - 王　宇翹
+- Wang Yang
+### 博士課程2年
 - 谷垣　慶
 ### 博士課程1年
 - Aoran Chen
 - 小寺　謙人
 - 道瀬　悠磨
+- 高 雅婷
 ### 修士課程2年
 - 岡　辰之輔
 - 植村　玲央
