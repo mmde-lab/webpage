@@ -13,13 +13,13 @@ $ mkdocs serve -a 0.0.0.0:8000
 
 
 ## Setup
-### Clone Repository
+### 1.Clone Repository
 ```
 # Move to working directory
 $ git clone git@github.com:mmde-lab/webpage.git
 $ cd webpage
 ```
-### Docker (Recomended)
+### 2.Docker (Recomended)
 ```
 $ cd webpage/
 $ docker-compose build
@@ -27,13 +27,13 @@ $ docker-compose up -d
 $ docker-compose exec ws /bin/bash
 ```
 
-### Local (Not Recomended)
+### 2.Local (Not Recomended)
 ```
 $ cd webpage/
 $ pip install -r docker/requirements.txt
 ```
 
-### ssh keygen before deploy
+### 3.ssh keygen before deploy
 ```
 $ cd ~/.ssh
 $ ssh-keygen -t rsa
@@ -43,7 +43,7 @@ $ cat id_rsa.pub
 $ ssh -T git@github.com
 ```
 
-### Deploy
+### 4.Deploy
 ```
 $ mkdocs gh-deploy
 ```
@@ -61,4 +61,5 @@ $ mkdocs gh-deploy
 ```
 # Install pip3
 $ sudo apt install python3-pip
+
 ```
