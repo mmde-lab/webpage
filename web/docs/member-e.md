@@ -60,3 +60,4 @@
 - Shintaro Tanaka
 ### Bachelor 3rd year
 - Hiroki Sako
+- Hibiki Yoshida
