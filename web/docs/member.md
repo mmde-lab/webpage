@@ -6,9 +6,12 @@
 ### 准教授
 - [天方　大地](https://amgt-d1.github.io/)
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
+### 講師
+- 夏　清心
 ### 招聘教員
 - [白川　真澄](http://iwnsew.com/)
-- 夏　清心
+### 助教
+- 李 智
 ### 特任助教
 - 大塚　亮真
 - Kumrai Teerawat
