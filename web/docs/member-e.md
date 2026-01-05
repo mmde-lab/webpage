@@ -6,9 +6,12 @@
 ### Associate Professor
 - [Daichi Amagata](https://amgt-d1.github.io/)
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
+### Lecturer
+- Xia Qingxin
 ### Guest Professor
 - [Masumi Shirakawa](http://iwnsew.com/)
-- Xia Qingxin
+### Assistant Professor
+- Li Zhi
 ### Specially Appointed Assistant Professor
 - Ryoma Otsuka
 - Kumrai Teerawat
