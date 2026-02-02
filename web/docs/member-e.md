@@ -2,27 +2,21 @@
 ## STAFF
 ### Professor
 - [Takahiro Hara](http://web.www-mmde.ist.osaka-u.ac.jp/~hara)
-- [Takuya Maekawa](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### Associate Professor
 - [Daichi Amagata](https://amgt-d1.github.io/)
 - [Zhang Yihong](https://www.ringspool.com/yihongzhang)
-### Lecturer
-- Xia Qingxin
+
 ### Guest Professor
 - [Masumi Shirakawa](http://iwnsew.com/)
 ### Assistant Professor
 - Li Zhi
-### Specially Appointed Assistant Professor
-- Ryoma Otsuka
-- Kumrai Teerawat
-### Researcher
-- Momoe Sukegawa
-- Cao Guanyu
+
 ### Technical Staff
 - Yoshiaki Takemoto
-- Kana Yasuda
 ### Clerical Assistant
 - Makiko Higashinaka
+### Research Collaborator
+- [Takuya Maekawa](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### Former Professor
 - [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
 ## STUDENTS
