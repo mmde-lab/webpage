@@ -10,7 +10,8 @@
 - [Masumi Shirakawa](http://iwnsew.com/)
 ### Assistant Professor
 - Li Zhi
-
+### Researcher
+- Jiao Shengzhe
 ### Technical Staff
 - Yoshiaki Takemoto
 ### Clerical Assistant
@@ -20,41 +21,23 @@
 ### Former Professor
 - [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
 ## STUDENTS
-### Doctor 3rd year
-- Jiao Shengzhe
-- Shuhei Yamazaki
-- Wang Yang
-- Wang Yuqiao
 ### Doctor 2st year
-- Kei Tanigaki
-### Doctor 1st year
 - Aoran Chen
 - Kento Kotera
 - Yuma Dose
-- Yating Gao
-### Master 2st year
-- Shinnosuke Oka
-- Reon Uemura
+### Doctor 1st year
 - Keito Kido
-- Tsuneari Kuroiwa
-- Yoshiyuki Maekawa
-- Keita Matsunaka
-- Qiao hongyin
-### Master 1st year
+### Master 2st year
 - Ryusei Iwasa
 - Naoya Ehara
 - Genryu Kuraya
 - Hyo Suzuki
 - Yoshiyuki Sone
 - Jo Masuda
-### Bachelor 4rd year
-- Kazuki Azuma
+### Master 1st year
 - Katsumori Izumi
-- Sangwook Kim
-- Duhyun Kim
+- Hiroki Sako
 - Yusuke Kimura
 - Naoki Tadatsu
 - Shintaro Tanaka
-### Bachelor 3rd year
-- Hiroki Sako
-- Hibiki Yoshida
+- Xie Yuxuan
