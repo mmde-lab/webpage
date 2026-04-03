@@ -27,6 +27,8 @@
 - Yuma Dose
 ### Doctor 1st year
 - Keito Kido
+- Duanyutian Zhou
+- Xinning Du
 ### Master 2st year
 - Ryusei Iwasa
 - Naoya Ehara
