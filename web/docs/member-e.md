@@ -42,5 +42,5 @@
 - Yusuke Kimura
 - Naoki Tadatsu
 - Shintaro Tanaka
-- TANG ZIXUAN
+- Tang Zixuan
 - Xie Yuxuan
