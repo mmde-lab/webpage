@@ -18,7 +18,7 @@
 ### 研究協力者
 - [前川　卓也](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### 前任教授
-- [西尾　章治郎](https://mmde-lab.github.io/member-webpage/nishio/index-jp.html)
+- [西尾　章治郎](https://www.iias.or.jp/director-general/nishio/)
 ## STUDENTS
 ### 博士課程2年
 - Aoran Chen
