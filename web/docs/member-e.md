@@ -44,3 +44,11 @@
 - Shintaro Tanaka
 - Tang Zixuan
 - Xie Yuxuan
+### Bachelor 4th year
+- Keisuke Kikuchi
+- Akihiro Kumasaki
+- Shunsuke Taira
+- Kazuma Matsumoto
+- Yuki Morisawa
+### Bachelor 3rd year
+- Lina Hurukawa
