@@ -19,7 +19,7 @@
 ### Research Collaborator
 - [Takuya Maekawa](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### Former Professor
-- [Shojiro Nishio](https://mmde-lab.github.io/member-webpage/nishio/index.html)
+- [Shojiro Nishio](https://www.iias.or.jp/director-general/nishio/index-en.html)
 ## STUDENTS
 ### Doctor 2st year
 - Aoran Chen
