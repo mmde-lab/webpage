@@ -15,19 +15,17 @@
 - [竹本　芳昭](http://www-mmde.ist.osaka-u.ac.jp/~takemoto/index-jp.html)
 ### 事務補佐員
 - 東中　麻紀子
-### 研究協力者
-- [前川　卓也](http://web.www-mmde.ist.osaka-u.ac.jp/~maekawa)
 ### 前任教授
 - [西尾　章治郎](https://www.iias.or.jp/director-general/nishio/)
 ## STUDENTS
 ### 博士課程2年
 - Aoran Chen
-- 小寺　謙人
 - 道瀬　悠磨
 ### 博士課程1年
 - 木戸　渓人
 - Duanyutian Zhou
 - Xinning Du
+- Junjie Zhou
 ### 修士課程2年
 - 岩佐　龍成
 - 江原　尚弥
@@ -38,9 +36,6 @@
 ### 修士課程1年
 - 和泉　勝衛
 - 木村　優介
-- 廹　泰樹 
-- 忠津　直樹
-- 田中　伸汰朗
 - Tang Zixuan
 - 謝 宇軒
 ### 学部4年
