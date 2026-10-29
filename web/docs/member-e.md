@@ -31,7 +31,6 @@
 - Ryusei Iwasa
 - Naoya Ehara
 - Genryu Kuraya
-- Hyo Suzuki
 - Yoshiyuki Sone
 - Jo Masuda
 ### Master 1st year
@@ -46,4 +45,5 @@
 - Kazuma Matsumoto
 - Yuki Morisawa
 ### Bachelor 3rd year
+- Soma Tanaka
 - Lina Hurukawa
